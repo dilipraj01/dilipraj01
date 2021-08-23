@@ -6,7 +6,7 @@
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently learning everthing possible
 - 💞️ I’m looking to collaborate on with other developers
-- 📫 How to reach me 
+- 📫 How to reach me <a href="mailto:dilip2360@gmail.com">Send email</a> 
 
 <!---
 dilipraj01/dilipraj01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
